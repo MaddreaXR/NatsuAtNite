@@ -4,8 +4,18 @@
     "com.unity.analytics": "3.2.3",
     "com.unity.collab-proxy": "1.2.15",
     "com.unity.package-manager-ui": "2.0.8",
+<<<<<<< HEAD
     "com.unity.purchasing": "2.0.3",
     "com.unity.textmeshpro": "1.4.1",
+=======
+    "com.unity.polybrush": "1.0.1",
+    "com.unity.probuilder": "4.2.3",
+    "com.unity.progrids": "3.0.3-preview.6",
+    "com.unity.purchasing": "2.0.3",
+    "com.unity.textmeshpro": "1.4.1",
+    "com.unity.xr.oculus.standalone": "1.38.4",
+    "com.unity.xr.openvr.standalone": "1.0.5",
+>>>>>>> 6cfb13db9c94930c96ced584e35f5c42de9a77e1
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",

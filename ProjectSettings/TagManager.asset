@@ -13,6 +13,7 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< HEAD
   - Interactive
   - Player
   - PlayerLocal
@@ -27,6 +28,8 @@ TagManager:
   - reserved2
   - reserved3
   - reserved4
+=======
+>>>>>>> 6cfb13db9c94930c96ced584e35f5c42de9a77e1
   - PostProcessing
   - 
   - 
@@ -37,6 +40,23 @@ TagManager:
   - 
   - 
   - 
+<<<<<<< HEAD
+=======
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+>>>>>>> 6cfb13db9c94930c96ced584e35f5c42de9a77e1
   m_SortingLayers:
   - name: Default
     uniqueID: 0
