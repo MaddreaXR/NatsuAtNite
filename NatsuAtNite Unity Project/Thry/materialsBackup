@@ -22,11 +22,8 @@ ca131910d5c9a634dbdd38e77111033f:=UnityChan/Skin
 9bec51fc47eda6047ba5cc01addbf46f:=UnityChan/Eye
 a87def7cf3654cc43add52e645fee2ce:=UnityChan/Eye - Transparent
 4987862c1c195e74c86994ba4bcbd812:=UnityChan/Eye - Transparent
-
-
-
-
-:=ProBuilder/Standard Vertex Color
 c6ebfe75123a3c24aa13df66cf81df09:=Standard
 40f939a7de2fcff49b615a1a7d90ec97:=Standard
 0000000000000000f000000000000000:=Particles/Standard Unlit
+19dccfbdef647e8458fdfd070487b218:=Standard
+93878effd08d4ea4ca929d52d82c1982:=Standard
