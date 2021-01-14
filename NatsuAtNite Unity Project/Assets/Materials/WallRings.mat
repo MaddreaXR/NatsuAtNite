@@ -25,7 +25,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BlendTexture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: f9c6074c5a78e71448f9efd3013cadda, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BlueTexture:
@@ -61,8 +61,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 06026f359dc2bf64da4dcf145cfcfd0a, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 14.81, y: 0.88}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -131,13 +131,13 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EMISSION: 1
-    - _EmissionStrength: 1.29
+    - _EmissionStrength: 1.66
     - _EmissiveBlink_Max: 3
     - _EmissiveBlink_Min: 1
     - _EmissiveBlink_Velocity: 4
     - _EmissiveScroll_Interval: 3.58
     - _EmissiveScroll_Velocity: 5.2
-    - _EmissiveScroll_Width: 2.6
+    - _EmissiveScroll_Width: 2.46
     - _FAKE_LIGHTING: 1
     - _Gloss: 0
     - _GlossMapScale: 1
@@ -177,7 +177,7 @@ Material:
     - _BlendTextureColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissiveScroll_Direction: {r: 0, g: 0, b: -20, a: 0}
+    - _EmissiveScroll_Direction: {r: 18.7, g: 0, b: -4.16, a: 0}
     - _LightDirection: {r: 0, g: 1, b: 0, a: 0}
     - _LineColor: {r: 1, g: 1, b: 1, a: 1}
     - _OverlayColor1: {r: 1, g: 1, b: 1, a: 1}
